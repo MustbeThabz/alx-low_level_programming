@@ -13,3 +13,4 @@ int main(void)
 	Printf("Size of a char: %i byte(S)\n", sizeof(long long int));
 	Printf("Size of a char: %i byte(S)\n", sizeof(float));
 	return (0);
+}
