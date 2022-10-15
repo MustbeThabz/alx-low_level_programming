@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * Description: prints two digits combination
- *Return: Always 0 (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
@@ -19,7 +19,7 @@ int main(void)
 				putchar(i);
 
 				if (c != '8' || (c == '8' && i != '9'))
-				}
+				{
 					putchar(',');
 					putchar(' ');
 				}
